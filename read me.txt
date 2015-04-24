@@ -1,0 +1,5 @@
+Hi there!
+
+1. In order to show images direcly in a simple way I  add an attribute "link" which contains the URL of the picture in the image table. 
+
+2. I use jsp link to pass parameters from one jsp to an other. So there are 4 jsp files.

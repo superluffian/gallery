@@ -1,0 +1,5 @@
+image_id,title,link,gallery_id,artist_id,detail_id
+1,"Mona Lisa",http://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg,1,1,1
+2,"St. John the Baptist",http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/300px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg,1,1,2
+3,"Swinging Wassily",http://www.tate.org.uk/art/images/work/T/T02/T02344_9.jpg,2,2,3
+4,Fall,http://www.tate.org.uk/art/images/work/T/T00/T00616_10.jpg,2,3,4
